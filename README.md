@@ -19,4 +19,5 @@
 - LAB 14 Shell
 - LAB 15 Networking
 
-The first, we need activate environtment for lab follow command source ~/zephyrproject/.venv/bin/activate
+The first, we need activate environtment for lab follow command:
+  ### source ~/zephyrproject/.venv/bin/activate
