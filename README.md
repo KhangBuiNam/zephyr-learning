@@ -21,3 +21,10 @@
 
 The first, we need activate environtment for lab follow command:
   ### source ~/zephyrproject/.venv/bin/activate
+
+## Lab01
+
+You can learn how about Thread work in Zephyr
+## Lab02: 
+
+You can see, in project Zephyr
